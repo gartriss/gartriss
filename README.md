@@ -1,9 +1,15 @@
 # Hi there!
-My devices: 
+My name is Gartriss, and i'm noob dev from Russia. I like to build MIUI / HyperOS mods. You can find my builds here, or in my Telegram Channel.
 
-📱| POCO M3 Pro 5G 6/128
+### What languages do I know?
+- Russian
+- English (not good)
+  
+### My devices: 
 
-📱| Redmi 8 3/32 
+- 📱| POCO M3 Pro 5G 6/128
 
-🖥️| R-3600, GT 1030, 16GB RAM | Windows 11
+- 📱| Redmi 8 3/32 
+
+- 🖥️| R-3600, GT 1030, 16GB RAM | Windows 11
 
