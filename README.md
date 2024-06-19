@@ -1,5 +1,5 @@
 # Hi there!
-My name is Gartriss, and i'm noob dev from Russia. I like to build MIUI / HyperOS mods. You can find my builds here, or in my Telegram Channel.
+My name is Gartriss, and i'm noob dev from Russia. I like to build MIUI / HyperOS mods and custom roms. You can find my builds here, or in my Telegram Channel.
 
 ### What languages do I know?
 - Russian
