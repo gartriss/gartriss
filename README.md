@@ -11,5 +11,5 @@ My name is Gartriss, and i'm noob dev from Russia. I like to build MIUI / HyperO
 
 - 📱| Redmi 8 3/32 
 
-- 🖥️| R-3600, GT 1030, 16GB RAM | Windows 11
+- 🖥️| AMD Ryzen 5 3600, GT 1030, 16GB RAM | Windows 11
 
