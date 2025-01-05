@@ -7,9 +7,13 @@ My name is Gartriss, and i'm noob dev from Russia. I like to build MIUI / HyperO
   
 ### My devices: 
 
-- 📱| POCO M3 Pro 5G 6/128
+- 📱| POCO M3 Pro 5G 6/128 (main)
 
 - 📱| Redmi 8 3/32 
+  
+- 📱| Huawei P9 Lite 2/16
 
+- 📱| Vernee Thor E 3/16 (two devices, one broken)
+  
 - 🖥️| AMD Ryzen 5 3600, GT 1030, 16GB RAM | Windows 11
 
