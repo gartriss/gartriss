@@ -15,5 +15,5 @@ My name is Gartriss, and i'm noob dev from Russia. I like to build MIUI / HyperO
 
 - 📱| Vernee Thor E 3/16 (two devices, one broken)
   
-- 🖥️| AMD Ryzen 5 3600, GT 1030, 16GB RAM | Windows 11
+- 🖥️| AMD Ryzen 5 3600, GT 1030, 16GB RAM | Debian 13
 
